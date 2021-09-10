@@ -1,0 +1,975 @@
+{
+  "0":{
+    "title":"Welche Aussage ist richtig?",
+    "answers":[
+      "Spannung fließt und Strom liegt an",
+      "Spannung liegt an und Strom fließt",
+      "Spannung und Strom liegen an",
+      "Spannung und Strom fließen"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "1":{
+    "title":"Wie wird Spannung gemessen?",
+    "answers":[
+      "Seriell",
+      "In Reihe",
+      "Parallel",
+      "Horizontal"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "2":{
+    "title":"Wie wird Strom gemessen?",
+    "answers":[
+      "Seriell",
+      "In Reihe",
+      "Parallel",
+      "Horizontal"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "3":{
+    "title":"Welche Einheit hat Spannung? ",
+    "answers":[
+      "I",
+      "A",
+      "Ω",
+      "V"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "4":{
+    "title":"Welche Einheit hat Strom? ",
+    "answers":[
+      "I",
+      "A",
+      "Ω",
+      "V"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "5":{
+    "title":"Welche Einheit hat der Widerstand ",
+    "answers":[
+      "I",
+      "A",
+      "Ω",
+      "V"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "6":{
+    "title":"2 Widerstände sind in Reihe geschalten. Was gilt?",
+    "answers":[
+      "Der Widerstand halbiert sich",
+      "Der Strom teilt sich auf",
+      "Es ensteht eine Überspannung",
+      "Durch beide fließt derselbe Strom"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "7":{
+    "title":"Was ist der Unterschied zwischen Gleich- und Wechelspannung?  ",
+    "answers":[
+      "Es gibt keinen",
+      "Gleichspannung kommt aus der Steckdose, Wechelspannung nicht",
+      "Die Wechselspannung wechselt immer seine Polarität, die Gleichspannung bleibt gleich",
+      "Wechselspannung ist tödlich, Gleichspannung nicht"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "8":{
+    "title":"Für was kann ein Kondensator eingesetzt werden? ",
+    "answers":[
+      "Spannung glätten",
+      "Strom erhöhern",
+      "Strom verrringern",
+      "Zum Leuchten"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "9":{
+    "title":"Was macht ein Transisitor? ",
+    "answers":[
+      "Er wandelt Wechselstrom in Gleichstrom um",
+      "Er speichert Energie",
+      "Er schaltet den Stromfluss",
+      "Er erhöht den Widerstand"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "10":{
+    "title":"Was macht eine Diode? ",
+    "answers":[
+      "Sie speichert Energie",
+      "Sie ist eine Spanungsquelle",
+      "Sie sperrt den Strom in eine Richtung",
+      "Sie macht gar nichts"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "11":{
+    "title":"Welche Farbe hat der PE-Schutzleiter? ",
+    "answers":[
+      "Blau-Gelb",
+      "Schwarz",
+      "Orange-Silber",
+      "Gelb-Grün"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "12":{
+    "title":"Welche Farbe hat der Neutralleiter? ",
+    "answers":[
+      "Blau",
+      "Braun",
+      "Silber",
+      "Rot"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "13":{
+    "title":"Welche Netzform wird in Deutschland verwendet? ",
+    "answers":[
+      "TT",
+      "TN-C-S",
+      "TN-C",
+      "TN-S"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "14":{
+    "title":"Wie erkennt man wie viel Ohm ein Widerstand hat? ",
+    "answers":[
+      "An der Länge",
+      "An der Anzahl der farbigen Striche",
+      "An der Dicke",
+      "An seinem Farbcode"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "15":{
+    "title":"Wofür steht die Akürzung Schuko? ",
+    "answers":[
+      "Schutzkontaktstecker",
+      "Schutzkundenstecker",
+      "Schutzkontaktsteckdose",
+      "Schulungskontaktstecker"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "16":{
+    "title":"Was bedeutet ESD? ",
+    "answers":[
+      "Elektronische Sicherheits-Diode",
+      "Elektronische Entladungen",
+      "Elektrostatische Entladungen",
+      "Elektrizitäts-Dämpfer"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "17":{
+    "title":"Was bringen AFDD´s? ",
+    "answers":[
+      "Sie leiten Blitze ab",
+      "Sie schützen Stromkreise bei Störlichtbögen",
+      "Sie schützen Stromkreise bei Störspannungen",
+      "Sie schützen den Menschen vor Stromschlägen"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "18":{
+    "title":"Wie lautet das Ohm´sche Gesetzt? ",
+    "answers":[
+      "R = U + I",
+      "R = I / U",
+      "R = U / I",
+      "R = U * I"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "19":{
+    "title":"Welchen Beruf übst du aus? ",
+    "answers":[
+      "IT-Elektroniker",
+      "Systemelektroniker",
+      "IT-Systemelketriker",
+      "IT-Systemelektroniker"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "20":{
+    "title":"Welches Bauteil ist bekannt, Daten flüchtig zwischenzuspeichern? ",
+    "answers":[
+      "RIM",
+      "ROM",
+      "RAM",
+      "REM"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "21":{
+    "title":"Mit welcher Formel wird die Leistung berechnet? ",
+    "answers":[
+      "U = P * I",
+      "U = I * P",
+      "I = U * V",
+      "P = U * I"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "22":{
+    "title":"Was ist ein Bestandteil der SSD? ",
+    "answers":[
+      "Flash-Speicher",
+      "Floppy-Speicher",
+      "Flipp-Speicher",
+      "Dash-Speicher"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "23":{
+    "title":"Was ist die vierte Sicherheitsregel? ",
+    "answers":[
+      "Freischalten",
+      "Erden und kurzschließen",
+      "Spannungsfreiheit feststellen",
+      "Mit Widerständen schützen"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "24":{
+    "title":"Warum ist Sand in einer Schmelzsicherung? ",
+    "answers":[
+      "Um die Spannung gering zu halten",
+      "Um das Entstehen eines Lichtbogens zu verhindern bzw. um ihn zu löschen",
+      "Damit es in der Sicherung trocken bleibt und ein Kurzschluss verhindert wird",
+      "Um hohe Strombelastungen zu gewährleisten "
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "25":{
+    "title":"Wie trägt man Wärmeleitpaste am besten auf ",
+    "answers":[
+      "Ein Kreuz formen",
+      "Einen Punkt in die Mitte geben",
+      "Ein Viereck am Rand der CPU formen",
+      "Die Wärmeleitpaste gleichmäßig verschmieren"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "26":{
+    "title":"Warum ist bei einer Schraubsicherung der Spannugsführende Kontakt unten? ",
+    "answers":[
+      "Damit die Schraubsicherung mit höheren Strom umgehen kann ",
+      "Wurde mal zufällig gemacht und das hat sich seitdem durchgesetzt",
+      "Damit die Gefahr eines Stromschlags beim ausstauschen/einsetzten minimiert wird",
+      "Man musste sich wegen einer Normung entscheiden"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "27":{
+    "title":"Was bedeutdet NH-Sicherung? ",
+    "answers":[
+      "Niederspannungshochleistungs-Sicherung",
+      "Neiderspannungs-Sicherung",
+      "Nullspannungs-Sicherung",
+      "Nanospannungs-Sicherung"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "28":{
+    "title":"Was ist die Funktion einer Online-USV? ",
+    "answers":[
+      "Ist Online im Internet unterwegs",
+      "Generiet ständig eine eigene Netzspannung",
+      "Stellt eine dauerhafte Internetverbindung her",
+      "Kann gleichzeitig eine Wechsel- und Gleichspannung ausgeben"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "29":{
+    "title":"Wie viel Hertz hat das Deutsche Stromnetz? ",
+    "answers":[
+      "120",
+      "400",
+      "49",
+      "50"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "30":{
+    "title":"Wo wird eine starre Leitung eingesetzt? ",
+    "answers":[
+      "An Strommasten",
+      "An Handyladekabeln",
+      "Im Mauerwerk",
+      "Im Computer"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "31":{
+    "title":"Welche Kategorie gibt es bei Netzwerkkabeln nicht? ",
+    "answers":[
+      "Cat. 9",
+      "Cat. 5",
+      "Cat. 6",
+      "Cat. 7"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "32":{
+    "title":"Welche OSI-Schichten gibt es nicht? ",
+    "answers":[
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "33":{
+    "title":"Was sind API´s? ",
+    "answers":[
+      "applikation programm indication",
+      "apply programmus installation",
+      "after programm indicator",
+      "application programming interface"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":3
+  },
+  "34":{
+    "title":"Wie schnell ist die Transferrate von USB 2.0? ",
+    "answers":[
+      "10 Mbit",
+      "3 Petabit",
+      "480 Mbit",
+      "350 Mbit"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  },
+  "35":{
+    "title":"Welche Aufgabe hat die CPU? ",
+    "answers":[
+      "Sie steuert gegebene Befehle und somit andere Maschinen und elektrische Schaltungen.",
+      "Sie verarbeitet Befehle zur Bilddarstellung innerhalb eines Programmcodes",
+      "Sie speicher Daten",
+      "Sie fungier als Schnittstelle"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "36":{
+    "title":"Was ist ein Ausgabegerät? ",
+    "answers":[
+      "DVD-Laufwerk",
+      "Drucker",
+      "Tastatur",
+      "Web-Cam"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "37":{
+    "title":"Was ist eine passive Kühlung?",
+    "answers":[
+      "Nur der Chip wird mit einer Kühlung versehen",
+      "Die Kühlung wird ausserhalb des Gehäuses montiert",
+      "Der Chip wird durch Wasser gekühlt",
+      "Ein Kühlkörper mit Lüfter wird auf den Chip montiert"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "38":{
+    "title":"Welche Programmiersprache gibt es nicht?",
+    "answers":[
+      "C++",
+      "JavaScript",
+      "Panta",
+      "HTML"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  },
+  "39":{
+    "title":"Was macht die Layer 4 (Transport) Schicht? ",
+    "answers":[
+      "Sie übermittelt Daten an andere Netzwerke",
+      "Sie transportiert Bytes zum Sender",
+      "Sie kontrolliert alle Netzwerkaktiväten",
+      "Ihre Aufgabe ist die Ende-zu-Ende- und die Transport-Kontrolle"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":3
+  },
+  "40":{
+    "title":"Wöfur steht DSl?",
+    "answers":[
+      "Digital Software Line",
+      "Digital Subscriber Line",
+      "Digitales Super LAN",
+      "Digitale Supreme Lane"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "41":{
+    "title":"Wofür steht die Abkürzung HTML?",
+    "answers":[
+      "Hypertext Markup Language",
+      "Hyper Text Modus Line",
+      "Hydrauliche Top Moderne Leitung",
+      "Hyperlink text modern language"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "42":{
+    "title":"Was ist der Unterschied zwischen Hubs und Switches?",
+    "answers":[
+      "Es gibt keinen",
+      "Der Hub vergibt IP-Adressen, der Swich nicht",
+      "Beim Hub wird das eintreffende Paket an alle Ports kopiert. Der Switch leitet es nur an das Ziel ",
+      "Der Hub empfängt Pakete und kopiert sie auf eine Backup-Festplatte. Der Switch leitet alle Pakete weiter"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  },
+  "43":{
+    "title":"Was ist ein Byte? ",
+    "answers":[
+      "Teil der Hardware",
+      "Fachbegriff für Stromstärke",
+      "Ein Layer 2 Protokoll",
+      "Eine Maßeinheit zur Datenmenge"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":3
+  },
+  "44":{
+    "title":"Wie viel Bit hat ein Byte? ",
+    "answers":[
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "45":{
+    "title":"Wofür ist DHCP zuständig? ",
+    "answers":[
+      "Zuweisung der Netzwerkkonfiguration an Clients durch einen Server",
+      "Auflösung eines Namens in eine IP-Adresse",
+      "Es ordnet MAC-Adressen Geräten zu",
+      "Einrichtung des Computers"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "46":{
+    "title":"Woran erkennt man eine IPv4-Adresse? ",
+    "answers":[
+      "Sie besteht aus 12 Zahlen, die einen Wert von 0 - 1027 annehmen können",
+      "Sie bestet aus 9 Oktetten",
+      "Sie besteht aus vier Zahlen, die einen Wert von 0 - 255 annehmen können und mit einem Punkt getrennt werden",
+      "Sie besteht aus Hexadezimalen-Zeichen"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  },
+  "47":{
+    "title":"Was sagt das Suffix aus? ",
+    "answers":[
+      "Der Suffix gibt die länge der IP Adresse in der Binärschreibweise an",
+      "Der Suffix nach einer IP-Adresse gibt an, wie viele 1er innerhalb der Subnetzmaske in der Bit-Schreibweise aufeinander folgen.",
+      "Der Suffix verkürzt die IP Adresse",
+      "Der Suffix gibt nichts besonderes an"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "48":{
+    "title":"Was bedeutet der Suffix /24 ausgeschrieben ",
+    "answers":[
+      "255.255.255.0",
+      "255.255.255.255",
+      "0.255.255.255",
+      "11101111.255.255.00000000"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "49":{
+    "title":"Was ist das größte Suffix",
+    "answers":[
+      "/255",
+      "/20",
+      "/30",
+      "/9999"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "50":{
+    "title":"Wie sieht die IP Adresse 192.168.4.2 im Binären Zahlensystem aus?",
+    "answers":[
+      "1100 0000.1010 1000.0000 0010.0000 0010",
+      "0110 0000.1010 1000.0010 1110 0000 1000",
+      "1100 0000.1010 1000.0000 0100.0000 0002",
+      "1100 0000.1010 1000.0000 0100.0000 0010"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":3
+  },
+  "51":{
+    "title":"Wie nennt man das zusammenführen von IP Adressen?",
+    "answers":[
+      "Subnetting",
+      "Ultranetting",
+      "Supernetting",
+      "Dupernetting"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  },
+  "52":{
+    "title":"Welche ist die ideale Temperatur zum Löten",
+    "answers":[
+      "420°C",
+      "310°C",
+      "320°C",
+      "450°C"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "53":{
+    "title":"Was heißt LED ausgeschrieben?",
+    "answers":[
+      "Licht Eingebende Diode",
+      "Light Editing Diode",
+      "Licht Einer Diode",
+      "Light Emitting Diode"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "54":{
+    "title":"Was heißt IDE ausgeschrieben?",
+    "answers":[
+      "Integrated Development Environment",
+      "Interactive Development Environment",
+      "Interactive Desctop Environment",
+      "Integrated Development Emission"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "55":{
+    "title":"Was ist Java?",
+    "answers":[
+      "Ein Kaffeesorte",
+      "Eine Programmiersprache",
+      "Ein Programmierumgebung",
+      "Ein Elektronikbauteil"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "56":{
+    "title":"Mit welchem Programm kann man Java programmieren?",
+    "answers":[
+      "Eclipse",
+      "Sunshine",
+      "Moonlight",
+      "Tsunami"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "57":{
+    "title":"Wie heißt der Generator zur Erzeugung von Gleichstrom?",
+    "answers":[
+      "Diamant",
+      "Diabolo",
+      "Dynamo",
+      "Diadem"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "58":{
+    "title":"Der dreiphasige Wechselstrom, der in die Haushalte geführt wird, heißt umgangssprachlich?",
+    "answers":[
+      "Tauchstrom",
+      "Sturmstrom",
+      "Windstrom",
+      "Drehstrom"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "59":{
+    "title":"Ein Chip ist ein..",
+    "answers":[
+      "..Isolator",
+      "..Integriertes Speichermedium",
+      "..Integrierter Schaltkreis",
+      "..Integrierter Schaltplan"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "60":{
+    "title":"Mit welchem Gerät kann man elektrische Schwingungen darstellen?",
+    "answers":[
+      "Mit einem Oszillator",
+      "Mit einem Oszillater",
+      "Mit einem Iszilloskop",
+      "Mit einem Oszilloskop"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "61":{
+    "title":" Mit welchem Faktor kann aus dem Effektivwert die Spitzenspannung berechnet werden?",
+    "answers":[
+      "Wurzel aus 3",
+      "Wurzel aus 2",
+      "2",
+      "Wurzel aus 4,5"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "62":{
+    "title":" Was ist der Effektivwert?",
+    "answers":[
+      "Quadratische Mittelwert einer zeitlich veränderlichen physikalischen Größe",
+      "Quadratischer Mittelwert einer zeitlich unveränderlichen physikalischen Größe",
+      "Halbe Mittelwert einer zeitlich veränderlichen physikalischen Größe",
+      "Der addierte Strom aus der zeitlichen Kontinuität"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "63":{
+    "title":"Ab wie viel Milliampere ist Strom schon tödlich?",
+    "answers":[
+      "4",
+      "8",
+      "5",
+      "9"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "64":{
+    "title":" Gibt es gepolte Kondensatoren?",
+    "answers":[
+      "Warum?",
+      "Nein",
+      "Doch",
+      "Ja"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "65":{
+    "title":"Ist der Speicher des RAMs nach dem Neustart des PCs noch erhalten?",
+    "answers":[
+      "Ja",
+      "Nein",
+      "Manchmal",
+      "Nur wenn er nicht vom Strom getrennt wird"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":1
+  },
+  "67":{
+    "title":"Ist eine SSD als tägliche Backup-Festplatte geeignet?",
+    "answers":[
+      "Nein",
+      "Ja"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":0
+  },
+  "68":{
+    "title":"Was macht das Schaltnetzteil?",
+    "answers":[
+      "Es schaltet nur Spannungen",
+      "Es wandelt eine unstabilisierte Sinnusspanung in eine konstante Dreiecksspannung um  ",
+      "Es wandelt eine unstabilisierte Eingangsspannung in eine konstante Ausgangsspannung um",
+      "Es ist ein verbesseter Transistor"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":2
+  },
+  "69":{
+    "title":"Wie bedeutet HDD ausgeschrieben?",
+    "answers":[
+      "Haltlose Digitale Diskette",
+      "Hyperspace Digital Disk",
+      "Hard Digital Disk ",
+      "Hard Disk Drive"
+    ],
+    "lehrjahr":[
+      1
+    ],
+    "rightanswer":3
+  },
+  "70":{
+    "title":"Was ist die Netzadresse von 10.30.4.80 /20?",
+    "answers":[
+      "10.0.0.0",
+      "10.30.0.0",
+      "192.168.10.0 ",
+      "10.0.0.0.0"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "71":{
+    "title":"Was ist Layer 5?",
+    "answers":[
+      "Layer 5 ermöglicht die Prozesskommunikation zweier Systeme",
+      "Layer 5 ermöglicht die Datenübertragung zwischen Server und Clients",
+      "Layer 5 beherbegt das Betriebssystem",
+      "Layer 5 unterstützt den RAM"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "72":{
+    "title":"Was ist eine Domain",
+    "answers":[
+      "Sie beinhaltet die Informationen über das Betriebsystem",
+      "Die verbindung des Laufwerks mit dem Mainboard",
+      "Sie besteht aus einer Sammlung von Netzwerkadressen",
+      "Die verbindung der Festplatte mit dem Mainboard"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":3
+  },
+  "73":{
+    "title":"Was ist ein Oktett",
+    "answers":[
+      "Es ist die Bezeichnung einer Zusammenstellung von 8 Bits.",
+      "Es ist die Bezeichnung der Zusammenarbeit von Software und Hardware",
+      "Es ist die Bezeichnung der OSI-Schicht",
+      "Es ist die standard Datums-Einstellung"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":0
+  },
+  "74":{
+    "title":"Mit welchem Befehl startet man eine HTML Programmierung",
+    "answers":[
+      "<title>",
+      "<html>",
+      "<body>",
+      "</html>"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":1
+  },
+  "75":{
+    "title":"Was heißt HTML ausgeschrieben?",
+    "answers":[
+      "Hyper Mask Language",
+      "Hypertext Maker Language",
+      "Hypertext Markup Language",
+      "Hyperfast Mask Language"
+    ],
+    "lehrjahr":[
+      2
+    ],
+    "rightanswer":2
+  }
+}
