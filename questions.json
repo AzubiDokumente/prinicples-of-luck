@@ -946,20 +946,8 @@
     ],
     "rightanswer":0
   },
+
   "74":{
-    "title":"Mit welchem Befehl startet man eine HTML Programmierung",
-    "answers":[
-      "<title>",
-      "<html>",
-      "<body>",
-      "</html>"
-    ],
-    "lehrjahr":[
-      2
-    ],
-    "rightanswer":1
-  },
-  "75":{
     "title":"Was heißt HTML ausgeschrieben?",
     "answers":[
       "Hyper Mask Language",
